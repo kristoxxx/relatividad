@@ -3,6 +3,8 @@ Este programa te lleva en un viaje espacial súper rápido. ¡Observa cómo los 
 ¿Cómo funciona?
 Imagina que tienes una regla. Si la mueves muy rápido, ¡se verá más corta! Así es como funciona la contracción de la longitud. Este programa te muestra este efecto de una manera divertida.
 
+Presiona las teclas flecha arriba y flecha abajo para cambiar la velocidad del objeto.
+
 ¿Qué necesito para jugar?
 
 Una computadora: Necesitas una computadora con Python instalado. Si no lo tienes, pídele ayuda a un adulto.
